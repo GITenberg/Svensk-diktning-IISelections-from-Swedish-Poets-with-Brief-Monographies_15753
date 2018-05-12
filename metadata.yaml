@@ -1,0 +1,37 @@
+_repo: Svensk-diktning-IISelections-from-Swedish-Poets-with-Brief-Monographies_15753
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Olson, Ernst W. (Ernst Wilhelm)
+    alias: Olson, Ernst Wilhelm
+    birthdate: 1870
+    deathdate: 1958
+    gutenberg_agent_id: '38386'
+    url: http://www.gutenberg.org/2009/agents/38386
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Mauritzson, Jules
+    birthdate: 1868
+    deathdate: 1930
+    gutenberg_agent_id: '36288'
+    url: http://www.gutenberg.org/2009/agents/36288
+description: ''
+gutenberg_issued: '2005-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15753'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, Swedish'
+- !lcc 'PT'
+- !lcsh 'Swedish poetry'
+title: 'Svensk diktning II
+
+  Selections from Swedish Poets with Brief Monographies'
+url: http://www.gutenberg.org/ebooks/15753
